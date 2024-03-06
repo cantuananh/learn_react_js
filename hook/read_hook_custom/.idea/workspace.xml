@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="568d2edb-c385-4c51-8a23-5b570987cdfb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../components_state/calculator_simple_example" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/calculator_simple_example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/change_background_color" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/change_background_color" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/component_and_state" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/component_and_state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/count_click" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/count_click" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/create_alert_component_example" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/create_alert_component_example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/crud_management_student" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/crud_management_student" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/expand_collapse_component_example" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/expand_collapse_component_example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/login_logout" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/login_logout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/login_logout_with_bootstrap" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/login_logout_with_bootstrap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/show_list_student_component_example" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/show_list_student_component_example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/show_notification" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/show_notification" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components_state/to-do-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../components_state/to-do-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong_quan_react/create-react-app/myapp" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong_quan_react/create-react-app/myapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong_quan_react/profile_card" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong_quan_react/profile_card" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong_quan_react/signin_form" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong_quan_react/signin_form" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dIqGgAGGivlJko48VPsdSCPcDy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/macbook/Desktop/reactjs/hook/read_hook_custom",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="568d2edb-c385-4c51-8a23-5b570987cdfb" name="Changes" comment="" />
+      <created>1709705845808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709705845808</updated>
+      <workItem from="1709705847236" duration="283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
