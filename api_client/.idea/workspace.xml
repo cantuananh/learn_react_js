@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d9f0b5d-b9d0-43e6-88c6-ff4a4c6b37c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../next.js/learn_nextjs/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/learn_nextjs/pages/TH_login/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/learn_nextjs/pages/TH_login/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/learn_nextjs/pages/TH_login/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/learn_nextjs/pages/TH_login/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/learn_nextjs/pages/TH_login/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/learn_nextjs/styles/Layout.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/learn_nextjs/styles/Login.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/mock-data/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/mock-data/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/mock-data/weather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/product/show/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/student/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/toolbar/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/toolbar/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/toolbar/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../next.js/student_manager/pages/toolbar/weather.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/calculator_simple_example" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/calculator_simple_example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/change_background_color" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/change_background_color" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/component_and_state" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/component_and_state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/count_click" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/count_click" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/create_alert_component_example" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/create_alert_component_example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/crud_management_student" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/crud_management_student" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/expand_collapse_component_example" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/expand_collapse_component_example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/login_logout" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/login_logout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/login_logout_with_bootstrap" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/login_logout_with_bootstrap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/show_list_student_component_example" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/show_list_student_component_example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/show_notification" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/show_notification" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components_state/to-do-app" beforeDir="false" afterPath="$PROJECT_DIR$/../components_state/to-do-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.js/learn_next_js/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tong_quan_react/create-react-app/myapp" beforeDir="false" afterPath="$PROJECT_DIR$/../tong_quan_react/create-react-app/myapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tong_quan_react/profile_card" beforeDir="false" afterPath="$PROJECT_DIR$/../tong_quan_react/profile_card" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tong_quan_react/signin_form" beforeDir="false" afterPath="$PROJECT_DIR$/../tong_quan_react/signin_form" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectId" id="2diVFvJCVMttUAKGpLh4pR4B7GS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/macbook/Desktop/reactjs/API_client",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d9f0b5d-b9d0-43e6-88c6-ff4a4c6b37c8" name="Changes" comment="" />
+      <created>1710490785522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710490785522</updated>
+      <workItem from="1710490786777" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

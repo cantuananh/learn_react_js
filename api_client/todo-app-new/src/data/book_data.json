@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "The Great Gatsby",
+      "detail": "A novel by F. Scott Fitzgerald",
+      "price": 10,
+      "status": "available"
+    },
+    {
+      "id": "2",
+      "name": "To Kill a Mockingbird",
+      "detail": "A novel by Harper Lee",
+      "price": 12,
+      "status": "available"
+    },
+    {
+      "id": "3",
+      "name": "1984",
+      "detail": "A novel by George Orwell",
+      "price": 15,
+      "status": "out of stock"
+    },
+    {
+      "id": "4",
+      "name": "Pride and Prejudice",
+      "detail": "A novel by Jane Austen",
+      "price": 11,
+      "status": "available"
+    },
+    {
+      "id": "5",
+      "name": "The Catcher in the Rye",
+      "detail": "A novel by J.D. Salinger",
+      "price": 14,
+      "status": "available"
+    },
+    {
+      "id": "6",
+      "name": "The Lord of the Rings",
+      "detail": "A novel by J.R.R. Tolkien",
+      "price": 20,
+      "status": "available"
+    }
+  ],
+  "meta": {
+    "books": {
+      "method": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ]
+    }
+  }
+}

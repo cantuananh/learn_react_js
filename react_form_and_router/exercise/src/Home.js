@@ -33,7 +33,7 @@ const Home = () => {
                     </li>
 
                     <li>
-                        <Link to={"/exercise_route1"}>Exercise route 1</Link>
+                        <Link to={"/exercise_rloute1"}>Exercise route 1</Link>
                     </li>
 
                     <li>

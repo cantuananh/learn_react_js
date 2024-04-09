@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": "8957",
+      "title": "toi la tuan anh",
+      "completed": false
+    },
+    {
+      "id": "636",
+      "title": "lam bai tap vong lap 1",
+      "completed": true
+    },
+    {
+      "id": "825",
+      "title": "bai tap 1",
+      "completed": true
+    },
+    {
+      "id": "324",
+      "title": "haha",
+      "completed": false
+    },
+    {
+      "id": "169",
+      "title": "DONE",
+      "completed": true
+    },
+    {
+      "id": 146,
+      "title": "Chơi game",
+      "completed": false
+    },
+    {
+      "id": 464,
+      "title": "hihi",
+      "completed": false
+    }
+  ],
+  "meta": {
+    "todos": {
+      "method": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ]
+    }
+  }
+}

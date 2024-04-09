@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": "7952",
+      "title": "đá bóng",
+      "completed": false
+    },
+    {
+      "id": "4695",
+      "title": "cuoi",
+      "completed": false
+    },
+    {
+      "id": "8957",
+      "title": "toi la tuan anh",
+      "completed": false
+    },
+    {
+      "id": 6233,
+      "title": "oke",
+      "completed": false
+    },
+    {
+      "id": 6233,
+      "title": "oke",
+      "completed": false
+    },
+    {
+      "id": 6233,
+      "title": "oke",
+      "completed": false
+    },
+    {
+      "id": 4863,
+      "title": "okeeee",
+      "completed": false
+    },
+    {
+      "id": "_ht7rnfgmo",
+      "title": "l;ewllelwlw",
+      "completed": false
+    }
+  ],
+  "meta": {
+    "todos": {
+      "method": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ]
+    }
+  }
+}
