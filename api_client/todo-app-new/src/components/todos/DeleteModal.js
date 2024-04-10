@@ -2,12 +2,27 @@ import React from "react";
 import Modal from "react-bootstrap/Modal";
 import {Button} from "react-bootstrap";
 import axios from "axios";
+import Swal from "sweetalert2";
 
 function deleteModal({openDeleteModal, setOpenDeleteModal, getAllData, deleteId}) {
     const handleDeleteData = async () => {
-        await axios.delete(`http://localhost:3001/todos/${deleteId}`);
-        setOpenDeleteModal(false);
-        getAllData();
+        try {
+            await axios.delete(`http://localhost:3001/todos/${deleteId}`);
+            await Swal.fire({
+                title: "Delete success a new book!",
+                icon: "success",
+                showConfirmButton: false,
+                timer: 1000
+            });
+            setOpenDeleteModal(false);
+            getAllData();
+        } catch (error){
+            await Swal.fire({
+                title: "Update book failed!",
+                text: "You clicked the button!",
+                icon: "error",
+            });
+        }
     }
 
 

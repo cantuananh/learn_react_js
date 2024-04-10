@@ -2,17 +2,28 @@ import React from "react";
 import Modal from "react-bootstrap/Modal";
 import {Button, Form} from "react-bootstrap";
 import axios from "axios";
+import Swal from "sweetalert2";
 
 function editModal({ openEditModal, setOpenEditModal, setEditData, editData, getAllData }) {
 
     const handleUpdateData = async () => {
         try {
             await axios.put(`http://localhost:3001/todos/${editData.id}`, editData);
+            await Swal.fire({
+                title: "Update success a new book!",
+                icon: "success",
+                showConfirmButton: false,
+                timer: 1000
+            });
 
             setOpenEditModal(false);
             getAllData();
         } catch (error) {
-            alert(error);
+            await Swal.fire({
+                title: "Update book failed!",
+                text: "You clicked the button!",
+                icon: "error",
+            });
         }
     }
 

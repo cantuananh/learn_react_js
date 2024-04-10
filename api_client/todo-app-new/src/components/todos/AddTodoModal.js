@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import axios from "axios";
 import Modal from "react-bootstrap/Modal";
 import {Button, Form} from "react-bootstrap";
+import Swal from "sweetalert2";
 
 function addTodoModal({openModal, setOpenModal, getAllData}) {
     // eslint-disable-next-line react-hooks/rules-of-hooks
@@ -15,6 +16,12 @@ function addTodoModal({openModal, setOpenModal, getAllData}) {
     const handleAddNewData = async () => {
         try {
             await axios.post("http://localhost:3001/todos", newData);
+            await Swal.fire({
+                title: "Add success a new book!",
+                icon: "success",
+                showConfirmButton: false,
+                timer: 1000
+            });
             setNewData({
                 id: Math.floor(Math.random() * 1000),
                 title: "",
@@ -23,7 +30,11 @@ function addTodoModal({openModal, setOpenModal, getAllData}) {
             setOpenModal(false);
             getAllData();
         } catch (error) {
-            alert(error);
+            await Swal.fire({
+                title: "Update book failed!",
+                text: "You clicked the button!",
+                icon: "error",
+            });
         }
     }
 

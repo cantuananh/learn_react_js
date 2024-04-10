@@ -15,18 +15,11 @@
       "status": "available"
     },
     {
+      "status": "available",
       "id": "3",
-      "name": "1984",
-      "detail": "A novel by George Orwell",
-      "price": 15,
-      "status": "out of stock"
-    },
-    {
-      "id": "4",
-      "name": "Pride and Prejudice",
-      "detail": "A novel by Jane Austen",
-      "price": 11,
-      "status": "available"
+      "name": "hahahha",
+      "detail": "hahaha",
+      "price": "12"
     },
     {
       "id": "5",
@@ -41,6 +34,13 @@
       "detail": "A novel by J.R.R. Tolkien",
       "price": 20,
       "status": "available"
+    },
+    {
+      "id": "435",
+      "name": "Cuoc doi that dep",
+      "detail": "cuoc doi that dep",
+      "price": "1",
+      "status": "out_of_stock"
     }
   ],
   "meta": {

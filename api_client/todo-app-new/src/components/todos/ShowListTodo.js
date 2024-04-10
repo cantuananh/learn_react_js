@@ -112,7 +112,6 @@ function showListTodo({datas, getAllData}) {
                          getAllData={() => getAllData()} deleteId={deleteId}/>
         </>
     );
-
 }
 
 export default showListTodo;
